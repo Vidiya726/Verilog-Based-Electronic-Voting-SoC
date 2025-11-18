@@ -413,12 +413,10 @@ The project provided practical experience in:
 * **Authors:** B. S. Alsaedi and A. S. O. Alghazali
 * **Journal/Conference:** 2024 International Conference on Computer and Communication Engineering Technology (CCET)
 
-
 ### 2. Verilog Textbook
 
 * **Title:** **Digital Design and Computer Architecture (2nd Edition)**
-* **Authors:** David Harris and Sarah Harris
-* **Publisher:** Morgan Kaufmann / Elsevier
+* **Authors:** David Harris and Sarah Harris and the publishers were Morgan Kaufmann / Elsevier
 
 ### 3. FPGA Documentation
 
