@@ -411,15 +411,9 @@ The project provided practical experience in:
 
 * **Title:** **Design and Implementation of a Secure Blockchain-Based E-Voting System**
 * **Authors:** B. S. Alsaedi and A. S. O. Alghazali
-* **Journal/Conference:** 2024 International Conference on Computer and Communication Engineering Technology (CCET)
-
+  
 ### 2. Verilog Textbook
 
 * **Title:** **Digital Design and Computer Architecture (2nd Edition)**
 * **Authors:** David Harris and Sarah Harris and the publishers were Morgan Kaufmann / Elsevier
-
-### 3. FPGA Documentation
-
-* **Source:** **Xilinx Vivado Design Suite User Guide: Synthesis (UG901)**
-* **Description:** Essential guide for transforming RTL (Verilog/VHDL) into a gate-level netlist for FPGA implementation, covering methodology and constraints.
   
