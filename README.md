@@ -407,9 +407,21 @@ The project provided practical experience in:
 
 ## 11\. References
 
-> **Note:** Fill in actual sources used for your project documentation.
+### 1. IEEE Paper (Digital Voting Systems)
 
-  * **IEEE Papers:** *[Title of Relevant Paper on Digital Voting Systems]*
-  * **Verilog Textbooks:** *[Book Title, Author (e.g., Digital Design and Computer Architecture, Harris & Harris)]*
-  * **FPGA Documentation:** *[Source (e.g., Xilinx Vivado Design Suite User Guide)]*
+* **Title:** **Design and Implementation of a Secure Blockchain-Based E-Voting System**
+* **Authors:** B. S. Alsaedi and A. S. O. Alghazali
+* **Journal/Conference:** 2024 International Conference on Computer and Communication Engineering Technology (CCET)
 
+
+### 2. Verilog Textbook
+
+* **Title:** **Digital Design and Computer Architecture (2nd Edition)**
+* **Authors:** David Harris and Sarah Harris
+* **Publisher:** Morgan Kaufmann / Elsevier
+
+### 3. FPGA Documentation
+
+* **Source:** **Xilinx Vivado Design Suite User Guide: Synthesis (UG901)**
+* **Description:** Essential guide for transforming RTL (Verilog/VHDL) into a gate-level netlist for FPGA implementation, covering methodology and constraints.
+  
